@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jerome Sagsagat 👋</h1>
+<h2 align="center">Hi, I'm Jerome Sagsagat 👋</h2>
 
 <p align="center">
   <b>Administrative · AI Automation · Website Building — Virtual Assistant</b><br>
@@ -19,7 +19,6 @@ I take the busywork off your plate so you can focus on growing your business.
 
 I'm a virtual assistant who builds **systems, not just checklists**. I handle daily admin, set up automations that run on their own, and build websites that work as hard as you do. I pair everyday administrative support with tools like **Make**, **Zapier**, and **AI assistants**, so repeat tasks run by themselves.
 
-- 🎓 BS Psychology graduate (June 2026)
 - 📍 Cavite, Philippines (UTC+8)
 - ⌨️ 52 WPM typing speed at 98% accuracy
 - 🟢 Open for new clients
@@ -39,6 +38,7 @@ I'm a virtual assistant who builds **systems, not just checklists**. I handle da
 - **Forms Response Alerts**: A new Google Form response adds a row to your spreadsheet and sends an email alert.
 - **Email Labeler**: Incoming emails are labeled by your chosen categories, so your inbox sorts itself.
 - **File Organizer**: Documents landing in Google Drive move to the right folder automatically.
+- **Customer Lead Enrichment**: Automatically collects customer information, retrieves additional details about the customer, organizes the data, and stores it in a structured database.
 
 ### Reporting
 - **Ultimate Excel Dashboard**: An interactive dashboard with KPIs and charts, built from sales, HR, market trends, recruitment, and training data.
@@ -77,16 +77,6 @@ I'm a virtual assistant who builds **systems, not just checklists**. I handle da
 - Maintained confidential employee records in line with HR documentation and data privacy standards.
 - Processed high-volume data entry and document updates under strict deadlines.
 
-## 🤝 How We'll Work Together
-
-1. **Discovery & Consultation**: You tell me about your business and what's taking up your time.
-2. **Planning & Proposal**: A clear plan with scope, deliverables, timeline, and pricing before we begin.
-3. **Execution & Documentation**: I handle the work, keep you updated, and document everything.
-4. **Review & Turnover**: I check every deliverable and provide guides and walkthroughs.
-5. **Ongoing Support**: Continued help based on our agreed scope.
-
-> ✅ Website and AI automation projects include **30 days of free post-turnover support**.
-
 ## 📫 Let's Connect
 
 | | |
@@ -102,4 +92,4 @@ I'm a virtual assistant who builds **systems, not just checklists**. I handle da
   <a href="https://jeromesagsagat.site.je/contact.html"><b>📞 Book a call</b></a>
 </p>
 
-<p align="center"><i>Built to save you time. ⏱️</i></p>
+<p align="center"><i>Built to save you time.⏱️</i></p>
